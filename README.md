@@ -65,6 +65,7 @@ const UNSPLASH_ACCESS_KEY = "YOUR_UNSPLASH_ACCESS_KEY";
 ### 🌙 Dark Mode UI
 
 <img width="300" height="401" alt="image 1" src="https://github.com/user-attachments/assets/d7e55390-8a2a-4f3a-97b8-f7792cef04b9" />
+
 <img width="300" height="401" alt="image 2" src="https://github.com/user-attachments/assets/fe2127ea-cc76-4e76-9f27-f32c21bf7b53" />
 
 
