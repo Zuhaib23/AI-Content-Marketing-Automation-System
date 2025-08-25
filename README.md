@@ -34,7 +34,7 @@ It provides a **dark mode UI**, smooth design, and integration with your Google 
 2. Click: `Extensions → Apps Script`
 3. Create two files:
 
-   * `Code.gs` → backend logic
+   * ` AIContentAutomation.gs` → backend logic
    * `FormUI.html` → sidebar UI
 
 ---
