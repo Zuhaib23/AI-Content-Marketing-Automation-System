@@ -41,7 +41,7 @@ It provides a **dark mode UI**, smooth design, and integration with your Google 
 
 ### 2. Add Your API Keys
 
-Replace placeholders inside `Code.gs`:
+Replace placeholders inside `AIContentAutomation.gs`:
 
 ```js
 const OPENAI_API_KEY = "YOUR_OPENAI_API_KEY";
